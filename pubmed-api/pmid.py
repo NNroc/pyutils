@@ -1,7 +1,7 @@
-# 检测重复度
+# 读取pubtator文件，获取pmid
 
 ebola_pmid = list()
-with open('./ebola.pubtator', 'r', encoding='utf-8') as file:
+with open('./output-testing(1976-2015).txt', 'r', encoding='utf-8') as file:
     lines = file.readlines()
     for line in lines:
         if len(line.split('|')) >= 3 and line.split('|')[1] == 't':
