@@ -8,6 +8,7 @@ def cmp(x):
 Entrez.email = "123@example.com"
 term = "ebola[Title/Abstract]"
 
+# 1976.01.01-2023.01.01
 search_results1 = Entrez.read(
     Entrez.esearch(db="pubmed", term=term, reldate=50000, retmax=99999, datetype="pdat", usehistory="y",
                    mindate="2014/01/01", maxdate="2024/01/01"))
