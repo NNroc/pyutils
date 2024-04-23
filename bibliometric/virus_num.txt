@@ -1,0 +1,638 @@
+Rift valley fever virus		1
+17d yellow fever vaccine		1
+2012 filovirus		1
+4-Aminoquinolines		2
+ACAM2000™		1
+ADP-ribosylating toxins		1
+AR-12		1
+Actin-binding proteins		1
+Adaptor-Associated Kinase		1
+Adjuvant		1
+Aedes aegypti		3
+Aerosol- and Percutaneous-acquired Venezuelan Equine Encephalitis		2
+African Zika Virus		2
+Alphavirus		7
+Aluminum		1
+Ames Bacillus anthracis		1
+Aminomethyl spectinomycins		1
+Anaplasma		3
+Andes Virus		3
+Andes virus		8
+Angola Marburg virus		2
+Anthrax		7
+Anthrax lethal toxin		1
+Anthrax toxin component		2
+Arenavirus		1
+Arenaviruses		1
+B. mallei		1
+B. pseudomallei		3
+B. thailandensis		2
+B5		5
+Bacillus anthracis		68
+Bacillus anthracis Ames		2
+Bacillus anthracis Capsule		1
+Bacillus anthracis DNA		1
+Bacillus anthracis PA63		1
+Bacillus anthracis Spore		1
+Bacillus anthracis Spores		1
+Bacillus anthracis spore		2
+Bacillus anthracis spores		7
+Bacillus globigii		6
+Bacillus pseudomallei		1
+Bacillus thuringiensis		2
+Beta		3
+BoNT/A1 holoprotein		2
+BoNT/B1		3
+Bolivian Hemorrhagic Fever		1
+Bordetella henselae		8
+Botulinum		1
+Botulinum Neurotoxin		5
+Botulinum Neurotoxin Light Chains A, B, and E		2
+Botulinum Neurotoxin Serotype A		7
+Botulinum Neurotoxin Serotype E		2
+Botulinum Neurotoxin Type C		2
+Botulinum Neurotoxins		1
+Botulinum neurotoxin		2
+Botulinum neurotoxin serotype F		1
+Botulism		2
+Brucellosis		1
+Brugian Filariasis		1
+Burkholderia		1
+Burkholderia mallei		14
+Burkholderia mallei ATCC 23344		1
+Burkholderia mallei LPS O Antigen		2
+Burkholderia pseudomallei		21
+Burkholderia thailandensis oacA Mutants		1
+C		2
+CARB		1
+CCHF		1
+CCHFV		1
+CCHFV-M		1
+CDC 684		2
+COVID-19		16
+Capsule		2
+Ceftazidime		2
+Cell Death		3
+Chicava		2
+Chikungunya		6
+Chikungunya virus		1
+Chimpanzee adenovirus		1
+Chloroquine		3
+Clade I		1
+Clostridial Iota-Family Toxins		1
+Clostridial binary toxins: iota and C2 family		1
+Clostridium botulinum		5
+Clostridium botulinum C2 toxin		1
+Clostridium botulinum Neurotoxin Serotype A		1
+Clostridium botulinum neurotoxin F		2
+Clostridium botulinum neurotoxin serotype A		1
+Clostridium botulinum neurotoxin types F		4
+Clostridium botulinum toxins F		4
+Clostridium botulinum type B		1
+Clostridium botulinum type B light chain		1
+Clostridium butyricum type E strains		6
+Clostridium difficile binary toxins		1
+Clostridium perfringens iota toxin		3
+Cluster 1 Type VI Secretion Mutants		1
+Cluster 1 Type VI Secretion System		1
+Coronavirus		33
+Coronavirus Disease 2019 (COVID-19)		1
+Coxiella burnetii		7
+CpG		1
+Crimean-Congo Hemorrhagic Fever		5
+Crimean-Congo Hemorrhagic Fever Virus		7
+Crimean-Congo haemorrhagic fever virus		2
+Crimean-Congo hemorrhagic fever		4
+Crimean-Congo hemorrhagic fever virus		13
+D		2
+D-alanyl-D-alanine carboxypeptidase		1
+D-cycloserine		1
+DCAP		1
+DEC-205/CD205		1
+DEN 2		1
+DENV		4
+DRBP76 Associates With Ebola Virus VP35 and Suppresses Viral Polymerase Function		1
+DV		1
+Delafloxacin		1
+Dengue Viral		1
+Dengue Virus (DENV)		1
+Dengue Virus-1		1
+Dengue virus		1
+Deoxy-D-manno-Octulosonic Acid		1
+EBOLA		1
+EBOV		2
+ECSA		2
+EILAT VIRUS		1
+Eastern Equine Encephalitis Virus		2
+Eastern Equine Encephalitis virus		1
+Eastern and Venezuelan Equine Encephalitis Viruses		1
+Eastern equine encephalitis virus		4
+Eastern equine encephalomyelitis virus		1
+Ebola		213
+Ebola Filovirus		2
+Ebola Hemorrhagic Fever		1
+Ebola Sudan		1
+Ebola Virus		15
+Ebola Virus Disease		8
+Ebola Virus-Like Particles		1
+Ebola Zaire Virus		2
+Ebola Zaire virus		1
+Ebola hemorrhagic fever		1
+Ebola marburgvirus		4
+Ebola virus		54
+Ebola virus (Zaire strain)		1
+Ebola virus disease		3
+Ebola-Kikwit		2
+Ebolavirus		26
+Ebolaviruses		3
+Eilat Virus		2
+Eilat virus		1
+Encephalitis		1
+Enzootic Plague		1
+Escherichia coli O157:H7		2
+F1		3
+F1-V		1
+F5		3
+FGI-104		1
+FILOVIRUS		1
+FILOVIRUSES		1
+FILoVIRUS		1
+Filovirus		11
+Filoviruses		9
+Flavivirus		1
+Francisella		1
+Francisella live vaccine strain		1
+Francisella mediaasiatica		3
+Francisella novicida		2
+Francisella tularensis		22
+Francisella tularensis Types B		2
+Francisella tularensis subspecies holarctica		2
+Francisella tularensis type B ΔdsbA mutant		1
+GAK		4
+GC-072		1
+Getah		2
+Glanders		6
+Gram-Negative Bacterial Pathogens		1
+Gram-Positive Bacteria		1
+Guanarito virus		2
+Guinea Pig-Adapted Zaire Ebolavirus		1
+H10N8		13
+H1N2		10
+H3N2		2
+H5N1		11
+H7N7		3
+H7N9		15
+H7N9pdm		15
+HFRS		4
+HFRS hantaviruses		2
+HIV		8
+HIV-1		35
+HIV-2		20
+HPS		2
+Hantaan Virus		3
+Hantaan orthohantavirus		1
+Hantaan virus		5
+Hantaan/Andes virus		1
+Hantavirus		9
+Hantaviruses		7
+Hemorrhagic Fever Virus		1
+Hemorrhagic Fever with Renal Syndrome		2
+Hepatitis C		3
+IE		3
+INA-inactivated Venezuelan equine encephalitis virus		2
+IP32953		2
+Infectious Lassa Virus		1
+Iota toxin		1
+Isfahan Virus		2
+Japanese encephalitis virus		1
+Junin Argentine Hemorrhagic Fever Virus		1
+Junin Virus		1
+Junin virus		1
+KPC		1
+Karshi (Mammalian Tick-Borne Flavivirus Group) Virus		1
+Karshi (mammalian tick-borne flavivirus group) virus		1
+Kikwit		2
+Lacking the Soluble Lytic Transglycosylase Slt		1
+Langat (tick-borne encephalitis virus complex)		2
+Lassa		10
+Lassa Virus		2
+Lassa fever		6
+Lassa fever virus		3
+Lassa hemorrhagic fever		1
+Lassa virus		10
+Lassa virus-like particles		2
+LcrV		2
+Leishmania		1
+Lethal Zaire Ebolavirus		1
+Lipopolysaccharide		1
+Lujo Virus		1
+Lyophilized, Inactivated Vaccine		2
+MARBURG VIRUS ANGOLA STRAIN		1
+MARV/Angola		1
+MARVAC		1
+MDA-5		2
+MERS-CoV		21
+MP-12		3
+Machupo Virus		1
+Machupo virus		2
+Makona		2
+Marburg		66
+Marburg Hemorrhagic Fever		1
+Marburg Virus		11
+Marburg Virus Angola		1
+Marburg haemorrhagic fever		1
+Marburg marburgvirus		3
+Marburg virus		27
+Marburg virus-like particles		2
+Marburgvirus		7
+Melioidosis		2
+Middle East Respiratory Syndrome Coronavirus		1
+Mn(II)-peptide-Pi		1
+Modified Vaccinia Ankara		1
+Monkey Pox Virus		3
+Monkeypof		1
+Monkeypox Virus		5
+Monkeypox virus		1
+Mosquito-Borne and Hemorrhagic Fever Viruses		1
+Mpox (Monkeypox)		1
+Mpox Virus		2
+Mu dI1		1
+N-3-hydroxy-octanoyl homoserine lactone		1
+N5-(Carboxyethyl) Ornithine Synthase		1
+NBR1		2
+New World arenaviruses		2
+New World hantavirus		2
+New World hantaviruses		2
+New World hemorrhagic fever arenaviruses		4
+NheA		1
+Nipah virus		4
+Nonviable Burkholderia mallei		1
+Norspermidine		1
+Novel Burkholderia mallei		1
+Novel phospholipase A2 inhibitors		1
+O'nyong-nyong		4
+Ocozocoautla de Espinosa Virus		1
+Omicron variants		2
+Orthoebolavirus sudanense		2
+P. falciparum Malaria		2
+P2-like bacteriophage		2
+Pan-Ebolavirus		1
+Pan-filovirus		2
+Passerine filariasis		3
+Persistent Marburg Virus		1
+Petrobactin		1
+Pichinde virus		2
+Plague		2
+Plague F1-V		1
+Polyamines and Hypusination		1
+Pseudomonas aeruginosa		4
+Puumala		2
+Puumala virus		9
+Q fever		3
+Quorum quenching		5
+RIFT VALLEY FEVER VIRUS		1
+RNA		2
+RNA virus		1
+RVF		1
+RVFV		2
+Rabies		1
+Remdesivir		1
+Rift Valley Fever		3
+Rift Valley Fever Virus		22
+Rift Valley fever		3
+Rift Valley fever virus		19
+SARS coronavirus		2
+SARS coronavirus 2		1
+SARS-CoV		8
+SARS-CoV-2		68
+SARS-CoV2		1
+SARS-corona virus		1
+SARS-like viruses		1
+SARS-related viruses		1
+SCHU S4		2
+SEB		1
+Seoul		4
+Seoul virus		1
+Serratia marcescens		1
+Severe Acute Respiratory Syndrome Coronavirus 2		1
+Simian Hemorrhagic Fever Virus		1
+Sin Nombre Virus		1
+Sin Nombre virus		1
+Sindbis		2
+Sindbis Virus		1
+Spores		1
+St. Louis encephalitis virus		1
+Sterne Strain		2
+Sudan		2
+Sudan Ebola		2
+Sudan Ebolavirus		1
+Sudan Ebolavirus (Gulu)		1
+Sudan Virus		3
+Sudan Viruses		2
+Sudan ebolavirus		1
+Sudan virus		4
+Synaptobrevin-2		3
+T6SS		1
+TC-83		4
+Tebipenem		1
+Tetratricopeptide Repeat-Like Proteins		1
+The Fluorocycline		5
+Thioredoxin		1
+Thottapalayam virus		1
+Tibrovirus		1
+Tik-borne-borne rickettsial		1
+Togaviridae		3
+Toxin		2
+Toxoplasma gondii		3
+Triterpenoids		1
+Tularemia		12
+Type A Botulinum Neurotoxin		2
+Type IV Secretion Effectors		2
+Type VI secretion		1
+Tyrosine Phosphatases		1
+Una		3
+Usutu Virus		1
+V		2
+V-F1 Reversed fusion protein		3
+V3526		3
+VEE virus		1
+VEEV		7
+VENEZUELAN EQUINE ENCEPHALITIS		2
+VP30		2
+VP40		4
+Varicella		1
+Variola minor		2
+Variola virus		1
+Venezuelan		2
+Venezuelan Equine Encephalitis		1
+Venezuelan Equine Encephalitis Virus		15
+Venezuelan equine encephalitis		10
+Venezuelan equine encephalitis virus		24
+Venezuelan equine encephalomyelitis complex		2
+Vesicular Stomatitis Virus		1
+Vibrio		1
+Vibrio cholerae		2
+Vibrio cholerae O1		1
+Viperatoxin-II		1
+Viral Hemorrhagic Fever		7
+Virus Makona		2
+WEEV		4
+Wesselsbron Virus		1
+West Nile		13
+West Nile Virus		4
+West Nile virus		18
+Western Equine Encephalitis Virus		1
+Western equine encephalitis virus		1
+Yellow fever virus		1
+Yersinia Pestis		1
+Yersinia pestis		60
+Yersinia pestis CO92		1
+Yersinia pestis-specific F1 antigen		3
+YopH		4
+ZEBOV		2
+Zaire		8
+Zaire Ebola virus		5
+Zaire ebolavirus		9
+Zika		2
+Zika virus		7
+adenoviral		1
+adenovirus		9
+aerosolized Burkholderia pseudomallei		2
+aerosolized clinical isolates		1
+aerosolized plague		1
+allyl sulfone		2
+alphavirus		7
+alphaviruses		6
+anthracis		5
+anthrax		47
+anthrax lethal toxin		1
+anthrax spores		1
+anthrax toxin		3
+anthrax-related toxin		1
+antibiotic-resistant strains		4
+antigens		1
+antimicrobial peptides		2
+arabinose		1
+arenaviridae		2
+arenavirus		4
+arenaviruses		3
+avirulent		2
+bacillus anthracis		3
+bacteria		2
+bacteriophage		2
+bacteriophages RNA		7
+botulinum		3
+botulinum neurotoxin		17
+botulinum neurotoxin A		1
+botulinum neurotoxin F5		1
+botulinum neurotoxin serotype A		3
+botulinum neurotoxin serotype a metalloprotease		2
+botulinum neurotoxin type A		2
+botulinum neurotoxin type B		1
+botulinum neurotoxins		3
+botulinum serotype A		1
+botulinum type A		2
+botulinum-toxin		1
+botulinunn neurotoxin		1
+brucellosis		2
+bubonic plague		1
+candidate vaccine V3526		2
+capsule		3
+capsule vaccine		2
+chaperone SycD		4
+chikungunya		41
+chikungunya fever		1
+chikungunya virus		2
+chikungunya-1		11
+cholera		1
+ciBoNT HPs		2
+ciprofloxacin		1
+ciprofloxacin-resistant Yersinia pestis		1
+common cold		3
+coronavirus		1
+covid-19		13
+cowpox		4
+cowpox virus		6
+crimean-congo hemorrhagic fever virus		2
+cynomolgus macaques		2
+delafloxacin		1
+dengue		13
+dengue haemorrhagic fever		1
+dengue virus		17
+dengue virus 1-3		2
+dengue virus serotypes 1		2
+dengue-2 virus		1
+denguevirus		5
+disease		11
+drug		2
+eastern equine encephalitis		3
+eastern equine encephalitis virus		8
+eastern equine encephalomyelitis viruses		1
+ebola		7
+ebola virus		2
+ebolavirus		6
+ebolaviruses		3
+encephalitic alphavirus		1
+encephalitis		5
+endotoxin		1
+enzootic (IE) and epizootic (IC) strains of Venezuelan equine encephalomyelitis virus		1
+epigallocatechin-3-gallate		2
+equine encephalitis virus		3
+essential amino acids		1
+fever		2
+filovirion		1
+filovirus		34
+filoviruses		3
+flavivirus		8
+flaviviruses		3
+gamma phage		1
+glanders		5
+glycerol		1
+gram-positive pathogens		1
+haemorrhagic fever		2
+hantaan virus		1
+hantavirus		8
+hantaviruses		4
+hemorrhagic fever		6
+hemorrhagic fever New World arenaviruses		1
+hepatitis C virus		13
+hepatitis E		22
+hepatitis E virus		18
+hepatitis E-like		13
+high-consequence pathogens		1
+highly pathogenic RNA viruses		1
+human T-lymphotropic virus		5
+human herpesvirus 6		6
+human immunodeficiency virus type 1		5
+human monkeypox		3
+inactivated Japanese encephalitis vaccine		2
+influenza A virus		3
+inhalation Melioidosis		1
+inhalational anthrax		4
+irp2		4
+irradiation-inactivated virulent spores		3
+lassa fever		1
+lassa virus		1
+lethal toxin		4
+lipid enveloped virus		1
+lymphocytic choriomeningitis		7
+lytic transglycosylase SleB		1
+malaria		17
+malaria parasites		2
+mallei		2
+marburgvirus		2
+marmoset		3
+melioidosis		10
+monkeypox		28
+monkeypox virus		8
+monkeypoxvirus		1
+morpholino		1
+mosquito		1
+mosquitoes		3
+neurotoxin		7
+neurotoxin catalytic domain		5
+new world arenaviruses		1
+nonlethal		2
+norovirus-like virus		5
+north american strains		4
+northern Mexico		2
+novel plant-derived recombinant human interferons		1
+oliveros virus		1
+oritavancin		2
+oropharyngeal vaccinia		2
+orthopox		2
+orthopox viruses		3
+orthopoxvirus		8
+orthopoxviruses		3
+p62/NBR1		1
+paramyxovirus		1
+pathogen		44
+pathogenesis		2
+pathogenic Burkholderia species		1
+pathogenicity		2
+pathogens		2
+phage		1
+pilin		1
+plague		18
+plasminogen activator-deficient		2
+pneumonic		2
+pneumonic melioidosis		1
+pneumonic plague		3
+polysaccharide		3
+porin-like proteins		1
+poxviruses		1
+prophage		3
+protective antigen		1
+protein tyrosine phosphatase epsilon		1
+protein-tyrosine phosphatase		3
+proteins		4
+pulmonary hemorrhage syndrome		2
+pulmonary syndrome		2
+rBoNTB		2
+rVSV		2
+rVSV-ΔG-EBOV-GP		2
+rabbitpox		2
+recombinant monkeypox		2
+rhamnose		1
+ribavirin		1
+ricin		1
+rubella		9
+serotype E		2
+serotype F		2
+serotypes F		4
+severe acute respiratory syndrome		1
+severe acute respiratory syndrome coronavirus		1
+severe acute respiratory syndrome coronavirus 2		21
+severe acute respiratory syndrome-associated coronavirus		1
+severe acute respiratory syndrome-related coronavirus 2		2
+severe coronavirus 2019		1
+sin nombre virus		1
+smallpox		31
+smallpox virus		2
+spotted fever group rickettsia		1
+strain C		3
+strain Gulu		5
+stx2		1
+subtype IAB		2
+subtype IIID		2
+testosterone		2
+tetrapartite		1
+thermostable, chromatographically purified Ebola		1
+tick-borne arbovirus		4
+tick-borne encephalitis virus		4
+toll-like receptor		1
+toxin		2
+trivalent alphavirus		1
+tularemia		3
+twitching motility and in vitro adhesion to epithelial cells		1
+type III secretion system		2
+vaccine		1
+vaccinia		9
+vaccinia virus		1
+variola virus		2
+venezuelan equine encephalitis virus		1
+viral		4
+viral RNA		2
+viral and bacterial pathogens		1
+viral and bacterial vaccine epitopes		1
+viral genomes		1
+viral infection		1
+virulence		1
+virulence factor		1
+virulence genes		2
+virulence of eastern equine encephalitis virus		1
+virulent Y. pestis		1
+virulent Yersinia pestis		1
+virulent strains		1
+virus		117
+virus D		8
+virus and pathogen		10
+virus-like particles		2
+western and eastern equine encephalitis viruses		1
+western equine		2
+western equine encephalitis		3
+western equine encephalitis virus		2
+yellow fever		22
+yersinia pestis		2
+zika		14
+zinc endopeptidase		2

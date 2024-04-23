@@ -1,47 +1,39 @@
 import pandas as pd
 
-# filename = './(无水印)机构同义词.xlsx'
-# df = pd.read_excel(filename)
-# a = df['USAMRIID']
-# stri = "\""
-# for aa in a:
-#     stri = stri + str(aa) + "\" OR \""
-# print(stri)
+filename = './(无水印)机构同义词.xlsx'
+df = pd.read_excel(filename)
+a = df['USAMRIID']
+stri = "\""
+for aa in a:
+    stri = stri + str(aa) + "\" OR \""
+print(stri)
 
-# filename = './savedrecs.xls'
-# df = pd.read_excel(filename)
-# a = df['USAMRIID']
-# stri = "\""
-# for aa in a:
-#     stri = stri + str(aa) + "\" OR \""
-# print(stri)
+filename = './savedrecs.xls'
+df = pd.read_excel(filename, dtype=str)
+a = df['Publication Year']
+year_list = [0 for i in range(30)]
+for aa in a:
+    year = str(aa)[0:4]
+    print()
+    year_int = int(year) - 2000
+    year_list[year_int] += 1
+print(year_list)
+print(sum(year_list))
+print(1897 / 23)
 
-# filename = './savedrecs.xls'
-# df = pd.read_excel(filename, dtype=str)
-# a = df['Indexed Date']
-# year_list = [0 for i in range(30)]
-# for aa in a:
-#     year = str(aa[0:4])
-#     print()
-#     year_int = int(year) - 2000
-#     year_list[year_int] += 1
-# print(year_list)
-# print(sum(year_list))
-# print(1897 / 23)
-
-# filename = './savedrecs.xls'
-# df = pd.read_excel(filename, dtype=str)
-# a = df['Authors']
-# author2article_num = {}
-# for aa in a:
-#     authors = aa.split("; ")
-#     for author in authors:
-#         if author not in author2article_num:
-#             author2article_num[author] = 1
-#         else:
-#             author2article_num[author] += 1
-# sorted_list = sorted(author2article_num.items(), key=lambda item: item[1], reverse=True)
-# print(sorted_list[0:5])
+filename = './savedrecs.xls'
+df = pd.read_excel(filename, dtype=str)
+a = df['Authors']
+author2article_num = {}
+for aa in a:
+    authors = aa.split("; ")
+    for author in authors:
+        if author not in author2article_num:
+            author2article_num[author] = 1
+        else:
+            author2article_num[author] += 1
+sorted_list = sorted(author2article_num.items(), key=lambda item: item[1], reverse=True)
+print(sorted_list[0:5])
 
 
 filename = './virus_num.xlsx'
@@ -56,10 +48,11 @@ m['anthra'] = 0
 m['lassa'] = 0
 m['Rift Valley fever virus'] = 0
 m['Venezuelan Equine Encephalitis Virus'] = 0
+m['dengue virus'] = 0
 with open(filename, 'r') as file:
     virus_num = {}
     for v in virusss:
-        if "埃博拉" in v[1] or 'ebo' in v[0].lower():
+        if "埃博拉" in v[1] or 'ebol' in v[0].lower():
             m['ebola'] += v[2]
             continue
         elif "马尔堡" in v[1] or 'marburg' in v[0].lower() or 'marv' in v[0].lower():
@@ -82,6 +75,9 @@ with open(filename, 'r') as file:
             continue
         elif "马脑炎" in v[1] or 'venezuelan' in v[0].lower() or 'VEEV' in v[0]:
             m['Venezuelan Equine Encephalitis Virus'] += v[2]
+            continue
+        elif "登革热" in v[1] or 'dengue' in v[0].lower() or 'DENV' in v[0]:
+            m['dengue virus'] += v[2]
             continue
         else:
             m[v[0]] = v[2]
