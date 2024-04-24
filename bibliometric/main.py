@@ -19,7 +19,7 @@ for aa in a:
     year_list[year_int] += 1
 print(year_list)
 print(sum(year_list))
-print(1897 / 23)
+print(sum(year_list) / 23)
 
 filename = './savedrecs.xls'
 df = pd.read_excel(filename, dtype=str)
@@ -52,7 +52,7 @@ m['dengue virus'] = 0
 with open(filename, 'r') as file:
     virus_num = {}
     for v in virusss:
-        if "埃博拉" in v[1] or 'ebol' in v[0].lower():
+        if "埃博拉" in v[1] or 'ebol' in v[0].lower() or 'ebov' in v[0].lower():
             m['ebola'] += v[2]
             continue
         elif "马尔堡" in v[1] or 'marburg' in v[0].lower() or 'marv' in v[0].lower():
@@ -61,7 +61,7 @@ with open(filename, 'r') as file:
         elif "鼠疫" in v[1] or 'pestis' in v[0].lower():
             m['pestis'] += v[2]
             continue
-        elif "肉毒" in v[1] or 'botulinum' in v[0].lower():
+        elif "肉毒" in v[1] or 'botulinum' in v[0].lower() or 'BONT' in v[0]:
             m['botulinum'] += v[2]
             continue
         elif "炭疽" in v[1] or 'anthra' in v[0].lower():
