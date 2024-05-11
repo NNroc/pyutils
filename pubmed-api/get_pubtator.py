@@ -1,4 +1,5 @@
 from Bio import Entrez, Medline
+import datetime
 
 
 def cmp(x):
@@ -8,20 +9,33 @@ def cmp(x):
 Entrez.email = "123@example.com"
 term = "ebola[Title/Abstract]"
 
+start_timestamp = datetime.datetime.now()
+print(start_timestamp)
 # 1976.01.01-2023.01.01
 search_results1 = Entrez.read(
     Entrez.esearch(db="pubmed", term=term, reldate=50000, retmax=99999, datetype="pdat", usehistory="y",
-                   mindate="2014/01/01", maxdate="2024/01/01"))
-count = int(search_results1["Count"])
-print("Found %i results" % count)
-
+                   mindate="2006/01/01", maxdate="2015/01/01"))
+count1 = int(search_results1["Count"])
+print("Found %i results1" % count1)
 search_results = search_results1["IdList"]
 search_results = list(set(search_results))
 search_results = sorted(search_results, key=cmp)
 print(len(search_results))
-
 handle = Entrez.efetch(db="pubmed", id=search_results, rettype="medline", retmode="text")
 records = list(Medline.parse(handle))
+
+search_results2 = Entrez.read(
+    Entrez.esearch(db="pubmed", term=term, reldate=50000, retmax=99999, datetype="pdat", usehistory="y",
+                   mindate="2015/01/01", maxdate="2024/01/01"))
+count2 = int(search_results2["Count"])
+print("Found %i results2" % count2)
+search_results = search_results2["IdList"]
+search_results = list(set(search_results))
+search_results = sorted(search_results, key=cmp)
+print(len(search_results))
+handle = Entrez.efetch(db="pubmed", id=search_results, rettype="medline", retmode="text")
+records = records + list(Medline.parse(handle))
+
 num = 0
 
 with open('./ebola.pubtator', 'w', encoding='utf-8') as file:
@@ -50,3 +64,6 @@ with open('./ebola.pubtator', 'w', encoding='utf-8') as file:
             num += 1
         except ConnectionResetError:
             print(i)
+
+end_timestamp = datetime.datetime.now()
+print(end_timestamp)
