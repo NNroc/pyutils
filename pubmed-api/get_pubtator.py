@@ -32,6 +32,9 @@ print("Found %i results2" % count2)
 search_results = search_results2["IdList"]
 search_results = list(set(search_results))
 search_results = sorted(search_results, key=cmp)
+for search in search_results:
+    if search in search_results1["IdList"]:
+        search_results.remove(search)
 print(len(search_results))
 handle = Entrez.efetch(db="pubmed", id=search_results, rettype="medline", retmode="text")
 records = records + list(Medline.parse(handle))
